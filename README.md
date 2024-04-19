@@ -1,2 +1,0 @@
-# Sample-Registry
-Backing store for registry.khronos.org/sample, populated from the Sample-Docs repository to publish specs which can't be served directly out of github.
